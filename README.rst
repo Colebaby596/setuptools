@@ -17,22 +17,14 @@
 .. |skeleton-badge| image:: https://img.shields.io/badge/skeleton-2024-informational
    :target: https://blog.jaraco.com/skeleton
 
-.. |codecov-badge| image:: https://img.shields.io/codecov/c/github/pypa/setuptools/master.svg?logo=codecov&logoColor=white
-   :target: https://codecov.io/gh/pypa/setuptools
+.. |
+12312312312
+ggsdjsjf
+asf932r
 
-.. |tidelift-badge| image:: https://tidelift.com/badges/github/pypa/setuptools?style=flat
-   :target: https://tidelift.com/subscription/pkg/pypi-setuptools?utm_source=pypi-setuptools&utm_medium=readme
+sdkdskdk
 
-.. |discord-badge| image:: https://img.shields.io/discord/803025117553754132
-   :target: https://discord.com/channels/803025117553754132/815945031150993468
-   :alt: Discord
-
-|pypi-version| |py-version| |test-badge| |ruff-badge| |docs-badge| |skeleton-badge| |codecov-badge| |discord-badge|
-
-See the `Quickstart <https://setuptools.pypa.io/en/latest/userguide/quickstart.html>`_
-and the `User's Guide <https://setuptools.pypa.io/en/latest/userguide/>`_ for
-instructions on how to use Setuptools.
-
+asd
 Questions and comments should be directed to `GitHub Discussions
 <https://github.com/pypa/setuptools/discussions>`_.
 Bug reports and especially tested patches may be
